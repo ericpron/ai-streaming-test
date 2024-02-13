@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+It's a test of Vercel's AI SDK for streaming responses from LLMs. I followed Cooper Codes youtube tutorial for [Gpt4ChatbotWithStreaming](https://github.com/coopercodes/Gpt4ChatbotWithStreaming/tree/main).  
+
 ## Getting Started
 
 First, run the development server:
